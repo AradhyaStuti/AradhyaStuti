@@ -1,5 +1,5 @@
-![logo](<img width="1877" height="461" alt="Screenshot 2026-04-03 135621" src="https://github.com/user-attachments/assets/6494f3c6-c0b3-4319-8333-4f818349c346" />
-6321.jpg)
+(<img width="1877" height="461" alt="Screenshot 2026-04-03 135621" src="https://github.com/user-attachments/assets/6494f3c6-c0b3-4319-8333-4f818349c346" />
+
 
 <h1 align="center">Hi 👋, I'm Aradhya Stuti</h1>
 <h3 align="center">I’m an AI/ML Engineer and MERN Stack Developer with a strong interest in building intelligent systems and scalable full-stack applications.</h3>
