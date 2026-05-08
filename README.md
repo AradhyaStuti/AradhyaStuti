@@ -13,10 +13,13 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aradhya-stuti" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/AradhyaStuti/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/aradhya-stuti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
+    <td><a href="https://leetcode.com/u/AradhyaStuti/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a></td>
+    <td><a href="mailto:aradhya.mutants@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a></td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -45,19 +48,18 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="left">
-  <img src="https://img.shields.io/github/followers/AradhyaStuti?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
-  <img src="https://img.shields.io/github/stars/AradhyaStuti?label=Stars&style=for-the-badge&color=0e75b6" alt="stars" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/github/followers/AradhyaStuti?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="followers" /></td>
+    <td><img src="https://img.shields.io/github/stars/AradhyaStuti?label=Stars&style=for-the-badge&color=0e75b6&logo=github" alt="stars" /></td>
+    <td><a href="https://github.com/AradhyaStuti?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-0e75b6?style=for-the-badge&logo=github" alt="repos" /></a></td>
+  </tr>
+</table>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AradhyaStuti&show_icons=true&locale=en&layout=compact" alt="top languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AradhyaStuti&show_icons=true&locale=en" alt="github stats" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=AradhyaStuti" alt="streak stats" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
 </p>
