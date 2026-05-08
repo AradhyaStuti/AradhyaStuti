@@ -46,11 +46,16 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.demolab.com/api/top-langs?username=AradhyaStuti&show_icons=true&locale=en&layout=compact" alt="top languages" />
+  <img src="https://img.shields.io/github/followers/AradhyaStuti?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
+  <img src="https://img.shields.io/github/stars/AradhyaStuti?label=Stars&style=for-the-badge&color=0e75b6" alt="stars" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.demolab.com/api?username=AradhyaStuti&show_icons=true&locale=en" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AradhyaStuti&show_icons=true&locale=en&layout=compact" alt="top languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AradhyaStuti&show_icons=true&locale=en" alt="github stats" />
 </p>
 
 <p align="left">
