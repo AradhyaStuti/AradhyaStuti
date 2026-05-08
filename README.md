@@ -15,7 +15,7 @@
 
 <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/YOUR-HANDLE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
+    <td><a href="https://www.linkedin.com/in/aradhya-stuti-9b2b9529a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
     <td><a href="https://leetcode.com/u/AradhyaStuti/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a></td>
   </tr>
 </table>
@@ -54,11 +54,3 @@
     <td><a href="https://github.com/AradhyaStuti?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-0e75b6?style=for-the-badge&logo=github" alt="repos" /></a></td>
   </tr>
 </table>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-</p>
