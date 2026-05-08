@@ -15,9 +15,8 @@
 
 <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/aradhya-stuti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
+    <td><a href="https://www.linkedin.com/in/YOUR-HANDLE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
     <td><a href="https://leetcode.com/u/AradhyaStuti/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a></td>
-    <td><a href="mailto:aradhya.mutants@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a></td>
   </tr>
 </table>
 
